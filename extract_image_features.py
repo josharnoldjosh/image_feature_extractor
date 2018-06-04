@@ -35,8 +35,6 @@ def ExtractImageFeature(img_path):
 
 image_paths = GetImagePaths()
 
-image_paths = image_paths[:15] # DELETE ME
-
 extracted_image_features = []
 
 i = 1
