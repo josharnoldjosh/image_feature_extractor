@@ -36,6 +36,8 @@ for path in images:
 	data = (path, feature)
 	extracted_image_features.append(data)
 	print(i, "out of", len(images))
+	if (i == 100):
+		break
 
 import hickle
 hickle.dump(extracted_image_features, 'output.hkl', mode='w', compression='gzip')
