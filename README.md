@@ -14,5 +14,4 @@ A python script that extracts image features from images within a directory. The
 * Navigate to a directory that contains images
 * Run `group_images.py` in that directory. It will recurse folders and create an `images` folder with all images copied and renamed in that directory
 * Run `extract.py` to extract image features
-
-
+* Run `find_similar.py` to cluster similar images
