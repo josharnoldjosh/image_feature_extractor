@@ -18,3 +18,5 @@ A python script that extracts image features from images within a directory. The
 * Run `create_matrix_T.py` 
 * Run `dot.py` 
 * Run `compile_similar.py` to finally output your desired images 
+
+Edit `compile_similar.py` to adjust how many images are grouped together and how many sets of images to cluster.
