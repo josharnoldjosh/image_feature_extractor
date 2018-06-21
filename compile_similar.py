@@ -9,7 +9,7 @@ file = hickle.load('output.hkl')
 print("File loaded")
 
 print("Loading matrix...")
-S = hickle.load('matrix.hkl')
+S = hickle.load('matrix_S.hkl')
 print("Matrix loaded")
 
 # Get indexes of max
