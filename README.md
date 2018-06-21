@@ -2,7 +2,7 @@
 
 ## What is it?
 
-A python script that extracts image features from images within a directory. The image features can then be used for finding similar images. 
+Python scripts to extract image features from images within a directory, and then cluster the MOST similar images into different sets. Very easy to use and customize!
 
 ## Requirements
 
