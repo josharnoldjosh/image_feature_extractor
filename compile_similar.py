@@ -28,7 +28,7 @@ if os.path.exists("output"):
 
 # Parameters
 num_similar_images = 20
-N_image_sets = 3
+N_image_sets = 50
 
 # Find highest similar image sets
 row_sums = []
